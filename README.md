@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake](https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
 <!--
 **langbiantianya/langbiantianya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
