@@ -1,4 +1,6 @@
+人是向往自由的动物，如果太久看不到天空，也是会生病的。————娜塔莎
 ![snake](https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 **langbiantianya/langbiantianya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
