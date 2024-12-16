@@ -1,4 +1,4 @@
-人是向往自由的动物，如果太久看不到天空，也是会生病的。————娜塔莎
+能够用自己喜欢的工作维持生活是件很幸福的事情 ————《白箱》
 ![snake](https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 <!--
