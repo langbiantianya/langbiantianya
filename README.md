@@ -4,7 +4,7 @@
 
 ### Operating system
 
-![windows](https://img.shields.io/badge/-Windows11-blue?style=for-the-badge&logoColor=white)
+![windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logoColor=white)
 ![archlinux](https://img.shields.io/badge/-ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white)
 ![fedora](https://img.shields.io/badge/-fedora-blue?style=for-the-badge&logo=fedora&logoColor=white)
 
