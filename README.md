@@ -1,6 +1,14 @@
 > 能够用自己喜欢的工作维持生活是件很幸福的事情 ————《白箱》
 
-![snake](https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)\
+<p>
+  <a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=langbiantianya&theme=2077">
+    <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=langbiantianya&theme=2077" height="160">
+  </a>
+  <a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=langbiantianya&theme=2077">
+    <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=langbiantianya&theme=2077" height="160">
+  </a>
+</p>
 
 ### Operating system
 
