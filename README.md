@@ -5,8 +5,13 @@
   <a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=langbiantianya&theme=2077">
     <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=langbiantianya&theme=2077" height="160">
   </a>
+</p>
+<p>
   <a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=langbiantianya&theme=2077">
     <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=langbiantianya&theme=2077" height="160">
+  </a>
+    <a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=langbiantianya&theme=2077">
+    <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=langbiantianya&theme=2077" height="160">
   </a>
 </p>
 
