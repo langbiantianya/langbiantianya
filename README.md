@@ -12,7 +12,14 @@
   </a>
 </p>
 
-# Programming languages
+## Snake
+<p>
+  <a display="inline" target="_blank" href="https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Profile overview" src="https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" height="160">
+  </a>
+</p>
+
+## Programming languages
 
 The programming languages currently in use.   
 ![kotlin](https://img.shields.io/badge/-Kotlin-skyblue?style=for-the-badge&logo=kotlin&logoColor=black)
@@ -20,7 +27,7 @@ The programming languages currently in use.
 ![javascript](https://img.shields.io/badge/-JavaScript-skyblue?style=for-the-badge&logo=javascript&logoColor=black)
 ![java](https://img.shields.io/badge/-Java-skyblue?style=for-the-badge&logo=OpenJDK&logoColor=black)
 
-# Framework
+## Framework
 
 Backend framework  
 ![springboot](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white)
@@ -31,9 +38,12 @@ Desktop app framework
 Front-end framework  
 ![svelte](https://img.shields.io/badge/-svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
 ![vanilla](https://img.shields.io/badge/-vanilla-red?style=for-the-badge&logo=html5&logoColor=white)
-# Snake
-<p>
-  <a display="inline" target="_blank" href="https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Profile overview" src="https://github.com/langbiantianya/langbiantianya/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" height="160">
-  </a>
-</p>
+
+## 2025-2026 Todo
+- [ ] [initialm](https://github.com/rerubbish/initialm)
+- [ ] merge [gendk](https://github.com/langbiantianya/gendk) -> [initialm](https://github.com/rerubbish/initialm)
+- [ ] [heavyAdmin](https://github.com/langbiantianya/heavyAdmin)
+
+## Now-?? Todo
+- [ ] [irdb_engine](https://github.com/langbiantianya/irdb_engine)
+- [ ] [cherry-markdown-webview](https://github.com/langbiantianya/cherry-markdown-webview)
