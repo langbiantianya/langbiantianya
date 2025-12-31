@@ -40,8 +40,8 @@ Front-end framework
 ![vanilla](https://img.shields.io/badge/-vanilla-red?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 2025-2026 Todo
-- [ ] [initialm](https://github.com/rerubbish/initialm)
-- [ ] merge [gendk](https://github.com/langbiantianya/gendk) -> [initialm](https://github.com/rerubbish/initialm)
+- [ ] [initialm](https://github.com/langbiantianya/initialm)
+- [ ] merge [gendk](https://github.com/langbiantianya/gendk) -> [initialm](https://github.com/langbiantianya/initialm)
 - [ ] [heavyAdmin](https://github.com/langbiantianya/heavyAdmin)
 
 ## Now-?? Todo
