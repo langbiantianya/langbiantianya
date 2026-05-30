@@ -38,12 +38,3 @@ Desktop app framework
 Front-end framework  
 ![svelte](https://img.shields.io/badge/-svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
 ![vanilla](https://img.shields.io/badge/-vanilla-red?style=for-the-badge&logo=html5&logoColor=white)
-
-## 2025-2026 Todo
-- [ ] [initialm](https://github.com/langbiantianya/initialm)
-- [ ] merge [gendk](https://github.com/langbiantianya/gendk) -> [initialm](https://github.com/langbiantianya/initialm)
-- [ ] [heavyAdmin](https://github.com/langbiantianya/heavyAdmin)
-
-## Now-?? Todo
-- [ ] [irdb_engine](https://github.com/langbiantianya/irdb_engine)
-- [ ] [cherry-markdown-webview](https://github.com/langbiantianya/cherry-markdown-webview)
